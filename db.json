@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "arroz",
+      "precio": "500"
+    },
+    {
+      "id": 2,
+      "nombre": "Azucar",
+      "precio": "45"
+    },
+    {
+      "id": "154e10fd-cbc0-42c9-b5bf-2edeffa272ca",
+      "nombre": "olluco",
+      "precio": "40"
+    }
+  ]
+}
